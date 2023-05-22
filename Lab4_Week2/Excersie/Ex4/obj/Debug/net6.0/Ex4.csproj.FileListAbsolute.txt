@@ -1,0 +1,15 @@
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\bin\Debug\net6.0\Ex4.exe
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\bin\Debug\net6.0\Ex4.deps.json
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\bin\Debug\net6.0\Ex4.dll
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\bin\Debug\net6.0\Ex4.pdb
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.csproj.AssemblyReference.cache
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.dll
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\refint\Ex4.dll
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.pdb
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
+D:\Code project\Advance C#\Lab_Class\Lab4_Week2\Excersie\Ex4\obj\Debug\net6.0\ref\Ex4.dll
