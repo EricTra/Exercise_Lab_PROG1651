@@ -1,0 +1,15 @@
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\bin\Debug\net6.0\All project.exe
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\bin\Debug\net6.0\All project.deps.json
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\bin\Debug\net6.0\All project.runtimeconfig.json
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\bin\Debug\net6.0\All project.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\bin\Debug\net6.0\All project.pdb
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.csproj.AssemblyReference.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.AssemblyInfoInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.AssemblyInfo.cs
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.csproj.CoreCompileInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\refint\All project.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.pdb
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\All project.genruntimeconfig.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Excercise\All project\obj\Debug\net6.0\ref\All project.dll
