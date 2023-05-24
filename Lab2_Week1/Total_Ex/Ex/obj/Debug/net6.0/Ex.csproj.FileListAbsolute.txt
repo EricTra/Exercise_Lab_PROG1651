@@ -1,0 +1,15 @@
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.csproj.AssemblyReference.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.AssemblyInfoInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.AssemblyInfo.cs
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.csproj.CoreCompileInputs.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\bin\Debug\net6.0\Ex.exe
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\bin\Debug\net6.0\Ex.deps.json
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\bin\Debug\net6.0\Ex.runtimeconfig.json
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\bin\Debug\net6.0\Ex.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\bin\Debug\net6.0\Ex.pdb
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\refint\Ex.dll
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.pdb
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\Ex.genruntimeconfig.cache
+D:\Code project\Advance C#\Lab_Class\Lab3_Week2\Total_Ex\Ex\obj\Debug\net6.0\ref\Ex.dll
